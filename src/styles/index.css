@@ -1,4 +1,14 @@
+body{
+    background-color: lightgrey;
+}
 
+.hidden-icon > span {
+    visibility: hidden;
+}
+
+.hidden-icon:hover > span {
+    visibility: visible;
+}
 /* 
 
     You can write your own styles here...
